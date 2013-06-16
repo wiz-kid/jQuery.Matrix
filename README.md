@@ -21,6 +21,6 @@ $("#matrix").Matrix();
   </div>
 ```
 
-Working done is available at http://jsfiddle.net/adiioo7/NFHug/7/
+Working demo available at http://jsfiddle.net/adiioo7/NFHug/7/
 
 jQuery.Matrix
